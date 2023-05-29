@@ -1,0 +1,13 @@
+{
+    "installed": {
+        "client_id": "450634160906-n6hfqipbb28r1l9j5bbm55lji71qt13j.apps.googleusercontent.com",
+        "project_id": "smatrix-quiz",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "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",
+        "redirect_uris": [
+            "http://localhost"
+        ]
+    }
+}
